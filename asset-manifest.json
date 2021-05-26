@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React_Frontend/static/css/main.5a93821b.chunk.css",
+    "main.js": "/React_Frontend/static/js/main.db34ae67.chunk.js",
+    "main.js.map": "/React_Frontend/static/js/main.db34ae67.chunk.js.map",
+    "runtime-main.js": "/React_Frontend/static/js/runtime-main.257498e7.js",
+    "runtime-main.js.map": "/React_Frontend/static/js/runtime-main.257498e7.js.map",
+    "static/js/2.4508512c.chunk.js": "/React_Frontend/static/js/2.4508512c.chunk.js",
+    "static/js/2.4508512c.chunk.js.map": "/React_Frontend/static/js/2.4508512c.chunk.js.map",
+    "static/js/3.998f2d63.chunk.js": "/React_Frontend/static/js/3.998f2d63.chunk.js",
+    "static/js/3.998f2d63.chunk.js.map": "/React_Frontend/static/js/3.998f2d63.chunk.js.map",
+    "index.html": "/React_Frontend/index.html",
+    "static/css/main.5a93821b.chunk.css.map": "/React_Frontend/static/css/main.5a93821b.chunk.css.map",
+    "static/js/2.4508512c.chunk.js.LICENSE.txt": "/React_Frontend/static/js/2.4508512c.chunk.js.LICENSE.txt",
+    "static/media/pexels-photo-5530681.7630d357.jpeg": "/React_Frontend/static/media/pexels-photo-5530681.7630d357.jpeg",
+    "static/media/pexels-photo-5604947.f3e6f112.jpeg": "/React_Frontend/static/media/pexels-photo-5604947.f3e6f112.jpeg",
+    "static/media/pexels-photo-5858998.394d785b.jpeg": "/React_Frontend/static/media/pexels-photo-5858998.394d785b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.257498e7.js",
+    "static/js/2.4508512c.chunk.js",
+    "static/css/main.5a93821b.chunk.css",
+    "static/js/main.db34ae67.chunk.js"
+  ]
+}
